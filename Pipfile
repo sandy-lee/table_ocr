@@ -6,10 +6,10 @@ name = "pypi"
 [packages]
 tensorflow-gpu = "*"
 pandas = "*"
-pytesseract = "*"
 ipykernel = "*"
+pytesseract = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.8"
