@@ -8,6 +8,11 @@ tensorflow-gpu = "*"
 pandas = "*"
 ipykernel = "*"
 pytesseract = "*"
+jupyterlab = "*"
+matplotlib = "*"
+opencv-python = "*"
+tdqm = "*"
+pydot = "*"
 
 [dev-packages]
 
