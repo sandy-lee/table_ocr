@@ -128,6 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/TableNet
+/TableNet/Marmot_data
 .vscode
-/Table-Extraction
+/Table-Extraction/dev/data
+/Table-Extraction/dev/tablenet_logs
+/Table-Extraction/dev/tablenet_weights
